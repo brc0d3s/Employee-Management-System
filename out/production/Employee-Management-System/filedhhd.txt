@@ -1,7 +1,0 @@
-Employee ID:dhhd
-Employee Name     :rhhh
-Father's Name     :hhhe
-Employee Contact  :dhhhd
-Email Information :dhhd
-Employee position :dhhd
-Employee Salary   :dhhd
