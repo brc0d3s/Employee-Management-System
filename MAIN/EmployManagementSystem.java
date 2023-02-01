@@ -14,7 +14,7 @@ class MainMenu
     System.out.println("\t\t\t  EMPLOYEE MANAGEMENT SYSTEM");
     System.out.println("\t\t*******************************************");
     System.out.println("\t\t\t    --------------------");
-    System.out.println("\t\t\t     ~$ Abhinav Dubey");
+    System.out.println("\t\t\t     ~$ BLOCKCHAINS");
     System.out.println("\t\t\t    --------------------");
     System.out.println("\n\nPress 1 : To Add an Employee Details");
     System.out.println("Press 2 : To See an Employee Details ");
@@ -157,9 +157,9 @@ class CodeExit
   public void out()
   {
     System.out.println("\n*****************************************");
-    System.out.println("$ cat Thank You For Using my Software :) ");
+    System.out.println("$ Thank You For Using our Software :) ");
     System.out.println("*****************************************");
-    System.out.println("\t\t/~ <0d3d by Abhinav Dubey\n");
+    System.out.println("\t\t/~ <0d3d by BLOCKCHAINS \n");
     System.exit(0);
   }
 }
@@ -276,4 +276,4 @@ class EmployManagementSystem
   }
 }
 
-/****************************** CODED BY ABHINAV DUBEY ************************/
+/****************************** CODED BY BLOCKCHAINS ************************/
